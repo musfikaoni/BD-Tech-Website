@@ -48,4 +48,31 @@ nav {
     font-weight: 400;
     margin: 5px 0px 0px -10px;
 }
+.nvmenus {
+    background-color: #f4f8fb;
+    border-top: 1px solid rgb(217, 234, 228);
+    padding: 10px 0px;
+}
+.nvmenus a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 17px;
+}
+.mnico {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.crl img {
+    border-radius: 10px;
+}
+.crl:hover {
+    transform: scale(1.05);
+}
+.inr {
+    border-radius: 10px !important;
+}
+.inr:hover {
+    border-radius: 10px !important;
+}
 /* header end */
