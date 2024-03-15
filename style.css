@@ -31,7 +31,7 @@ nav {
 .navico i {
     color: #EE674E;
     font-size: 20px;
-    background-color: #f8cbc3d3;
+    background-color: #ebd2cef7;
     height: 45px;
     width: 45px;
     margin-left: 10px;
@@ -76,3 +76,71 @@ nav {
     border-radius: 10px !important;
 }
 /* header end */
+/* product section start */
+.prdt {
+    background-image: url('Images/header-offer-bg.jpg');
+    height: 38vh;
+    width: 83%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.hrr {
+    width: 97%;
+    color: rgb(174, 174, 174);
+}
+.prot {
+    background-color: #FFFFFF;
+    height: 21vh;
+    border-radius: 12px;
+}
+.wth {
+    background-color: #F4F8FB;
+    height: 105px;
+    width: 105px;
+    border-radius: 10px;
+}
+.wth img {
+    height: auto;
+    width: 95%;
+}
+.wth img:hover {
+    transform: scale(1.04);
+}
+.wtht {
+    display: grid;
+    align-items: center;
+}
+.wtht a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.wtt {
+    margin-left: -75px;
+}
+.wtx a {
+    margin-left: -75px;
+}
+.wtt p {
+    font-weight: bold;
+    color: #027b61;
+    font-size: 15px;
+}
+.wtt del {
+    margin-left: -220px;
+    font-size: small;
+    font-weight: bold;
+}
+.eidof {
+    border-radius: 10px;
+}
+.eidof img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+.eidof:hover {
+    transform: scale(1.05);
+}
+/* product section end */
