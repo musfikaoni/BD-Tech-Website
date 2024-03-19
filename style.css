@@ -257,7 +257,7 @@ figure {
 /* eid offer1 image end */
 /* logo area start */
 .scc {
-    background-color: #F8F8F8;
+    background-color: #f4f4f4;
 }
 .txlogo h2 {
     text-align: center;
@@ -265,7 +265,7 @@ figure {
     color: #EE674E;
 }
 .logimg img {
-    height: 83px;
+    height: 80px;
     width: 120%;
     border-radius: 10px;
 }
@@ -273,4 +273,53 @@ figure {
     transform: scale(1.010);
     transition: .5s;
 }
+.md-btn {
+    background-color: #EE674E;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.md-btn:hover {
+    background-color: #d63f25;
+}
 /* logo area end */
+/* feature section start  */
+.fe {
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    justify-content: center;
+}
+.allfe {
+    width: 100%;
+}
+.fee {
+    background-color: #FFFFFF;
+    padding: 0px 50px;
+    margin-top: -100px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.circle h5 {
+    padding-top: 30px;
+    padding-right: 32px;
+    width: 200%;
+    font-size: 18px;
+    text-align: center;
+    margin-left: -32px;
+}
+.circle h5:hover {
+    color: #EE674E;
+}
+.circle i {
+    font-size: 30px;
+    color: #EE674E;
+    background-color: #ecf2f6;
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+.circle i:hover {
+    color: #FFFFFF;
+    background-color: #EE674E;
+}
+/* feature section end */
