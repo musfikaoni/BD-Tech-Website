@@ -255,3 +255,22 @@ figure {
     transition: .5s;
 }
 /* eid offer1 image end */
+/* logo area start */
+.scc {
+    background-color: #F8F8F8;
+}
+.txlogo h2 {
+    text-align: center;
+    margin-left: 120px;
+    color: #EE674E;
+}
+.logimg img {
+    height: 83px;
+    width: 120%;
+    border-radius: 10px;
+}
+.logimg img:hover {
+    transform: scale(1.010);
+    transition: .5s;
+}
+/* logo area end */
