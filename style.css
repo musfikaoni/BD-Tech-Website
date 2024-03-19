@@ -213,6 +213,18 @@ figure {
     margin-top: 25px;
     border-radius: 10px;
 }
+.imgbg p {
+    background-color: #EE674E;
+    color: white;
+    width: 35%;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 7px;
+    padding: 2px;
+    margin: 8px 0px 0px 10px;
+    position: absolute;
+}
 .card {
     margin: 10px;
 }
