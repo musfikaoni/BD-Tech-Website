@@ -244,3 +244,14 @@ figure {
     transition: .5s;
 }
 /* offer image section end */
+/* eid offer1 image start */
+.eid img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+.eid img:hover {
+    transform: scale(1.010);
+    transition: .5s;
+}
+/* eid offer1 image end */
