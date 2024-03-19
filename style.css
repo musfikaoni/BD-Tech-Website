@@ -323,3 +323,16 @@ figure {
     background-color: #EE674E;
 }
 /* feature section end */
+/* Article section start */
+.art h3 {
+    font-size: 23px;
+    font-weight: bolder;
+}
+.art p {
+    color: rgb(33, 33, 33);
+    font-size: 16px;
+}
+.clor {
+    color: #027b61;
+}
+/* Article section end */
