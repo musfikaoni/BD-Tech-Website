@@ -59,6 +59,9 @@ nav {
     margin-left: 20px;
     font-size: 17px;
 }
+.nvmenus a:hover {
+    color: teal;
+}
 .mnico {
     font-size: 12px;
     margin-left: 5px;
@@ -74,6 +77,10 @@ nav {
 }
 .inr:hover {
     border-radius: 10px !important;
+}
+.dropdown-item:hover {
+    color: teal !important;
+    background-color: transparent;
 }
 /* header end */
 /* product section start */
